@@ -42,7 +42,7 @@
     "date-fns": "2.16.0",
     "hash.js": "1.1.7",
     "history": "5.0.0",
-    "http-status-codes": "2.1.2",
+    "http-status-codes": "2.1.4",
     "lodash": "4.17.20",
     "mobx": "5.15.6",
     "mobx-react-lite": "2.2.0",
